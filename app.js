@@ -1,6 +1,6 @@
 var express = require('express');
 var app = express();
-var path = require('path');
+//var path = require('path');
 var router = express.Router();
  
 console.log(__dirname);
